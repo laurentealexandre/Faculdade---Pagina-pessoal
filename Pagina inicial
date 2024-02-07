@@ -1,0 +1,48 @@
+<!--informações não visiveis da página-->
+<DOCTYPE html>
+<html lang="pt-br>
+<head>
+<title> Página Pessoal Alexandre Laurente Cardoso </title>
+<meta charset="utf-8">
+<link href="estilo.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+	<!--cabeçalho-->
+	<header>
+	<h1>Alexandre Laurente Cardoso</h1>
+	<p>GRPSP497 - Desenvolvimento Front-End I - 2023_2</p>	
+		<a href="desafioatualizado.html">Home</a>
+        	<a href="paginadecontato.html">Contato</a>
+        	<a href="paginadepreferencias.html">Hobbies</a>	
+	</header>
+
+
+<!--tabela para configurar a foto com a coluna e o rodapé-->
+<table height="65%" >
+    <thead>
+        <tr>
+	<th>	
+<!--foto-->
+	<img class="fotoprincipal" src="foto.png" alt="minha foto">	</th>
+
+<!--lista ordenada-->	
+		<th><h2> Destaques Profissionais </h2>
+		<ol>
+		<li> Graduado em Administração Pública</li>
+		<li> MBA em Administração Pública</li>
+		<li> Graduando em Análise e Desenvolvimento de Sistemas</li>
+		<li> Servidor Público da DGTI/UFLA de 2010 até a presente data</li>
+		</ol>
+</th>
+</table>	
+		
+</body>
+<!--Rodape da página-->	
+        <footer>
+        <p>Desenvolvido por Alexandre Laurente Cardoso</p>
+</footer>
+
+</html>
+
+
+

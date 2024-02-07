@@ -1,0 +1,42 @@
+<!--informações não visiveis na página-->
+<DOCTYPE html>
+<html lang="pt-br>
+<head>
+<title> Minha Página de Ecoturismo </title>
+<meta charset="utf-8">
+<link href="estilo.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+	<!--cabeçalho-->
+	<header>
+	<h1>Alexandre Laurente Cardoso</h1>
+	<p>GRPSP497 - Desenvolvimento Front-End I - 2023_2</p>
+		<a href="desafioatualizado.html">Home</a>
+        	<a href="paginadecontato.html">Contato</a>
+        	<a href="paginadepreferencias.html">Hobbies</a>	
+	</header>
+
+<h2>Hobbies</h2>    
+    <p>Uma das minhas atividades preferidas é realizar viagens onde eu possa me conectar com a natureza.
+    Abaixo eu apresento uma galeria de fotos de lugares maravilhosos que conheci, para maiores informações entre em contato
+    comigo pela página de contatos.</p> 
+
+<!--Galeria de imagens-->    
+        <img src="imagem1.jpg" alt="foto 1">
+        <img src="imagem2.jpg" alt="foto 2">
+        <img src="imagem3.jpg" alt="foto 3">
+        <img src="imagem4.jpg" alt="foto 4">
+        <img src="imagem5.jpeg" alt="foto 5">
+        <img src="imagem6.jpg" alt="foto 6">     
+   
+<p> Um dos meus lugares preferidos para visitar é a cidade de Carrancas - MG, abaixo segue um video com dicas sobre a cidade: </p>
+	 <p style="text-align: center;">
+		<iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/UC_OKqqd1Zo" frameborder="0" allowfullscreen></iframe>
+	
+</p>
+<!--Rodape da página-->
+<footer>
+        <p>Desenvolvido por Alexandre Laurente Cardoso</p>
+</footer>
+</body>
+</html>
